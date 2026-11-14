@@ -1,0 +1,1 @@
+{"description":"Single-process GitHub-compatible git forge: git smart HTTP v0+v2, REST v3, GraphQL, MCP. Node 22 + TypeScript, standard library only.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"forge","private":true,"scripts":{"check":"node --check main.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
